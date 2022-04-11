@@ -1,0 +1,6 @@
+# Ignore Word DOCX files.
+*.docx
+
+# Ignore Cargo/Rust build directories.
+*target/*
+*/target/*
